@@ -3,8 +3,6 @@
 backend:
   name: github
   repo: whereshj/codeforboston.org
-  branch: master # Branch to update (optional; defaults to master)
-  site_domain: whereshj.github.io/codeforboston.org/
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
